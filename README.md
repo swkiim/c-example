@@ -1,1 +1,1 @@
-# c-example
+# cpp example
